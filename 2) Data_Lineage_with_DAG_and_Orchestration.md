@@ -279,7 +279,7 @@ Trigger an immediate manual run of your scheduled query by clicking on [Schedule
 4) Analyse the results in dataflow_finance_testing. If there are errors, investigate the cause, correct them, and re-trigger an immediate manual execution of your scheduled query to ensure the corrections worked.
 
 
-**To Conclude:**
+# **To Conclude:**
 
 In this exercise, we learned how to manage a financial data pipeline by understanding data lineage and automating key processes. We started by mapping data lineage with a Directed Acyclic Graph (DAG) to see how everything connects, making troubleshooting and improvements easier.
 
